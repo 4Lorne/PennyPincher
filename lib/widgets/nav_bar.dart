@@ -28,8 +28,8 @@ class _NavBarState extends State<NavBar> {
           label: 'Budget',
         ),
         BottomNavigationBarItem(
-          icon: Icon(Icons.home_filled),
-          label: 'Home',
+          icon: Icon(Icons.list_alt_rounded),
+          label: 'Summary',
         ),
         BottomNavigationBarItem(
           icon: Icon(Icons.settings_sharp),
